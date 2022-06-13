@@ -1,0 +1,11 @@
+D:\Projects\Winform\OnTap_QLMonAn_New\bin\Debug\OnTap_QLMonAn_New.exe.config
+D:\Projects\Winform\OnTap_QLMonAn_New\bin\Debug\OnTap_QLMonAn_New.exe
+D:\Projects\Winform\OnTap_QLMonAn_New\bin\Debug\OnTap_QLMonAn_New.pdb
+D:\Projects\Winform\OnTap_QLMonAn_New\obj\Debug\OnTap_QLMonAn_New.csproj.AssemblyReference.cache
+D:\Projects\Winform\OnTap_QLMonAn_New\obj\Debug\OnTap_QLMonAn_New.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Winform\OnTap_QLMonAn_New\obj\Debug\OnTap_QLMonAn_New.Properties.Resources.resources
+D:\Projects\Winform\OnTap_QLMonAn_New\obj\Debug\OnTap_QLMonAn_New.csproj.GenerateResource.cache
+D:\Projects\Winform\OnTap_QLMonAn_New\obj\Debug\OnTap_QLMonAn_New.csproj.CoreCompileInputs.cache
+D:\Projects\Winform\OnTap_QLMonAn_New\obj\Debug\OnTap_QLMonAn_New.exe
+D:\Projects\Winform\OnTap_QLMonAn_New\obj\Debug\OnTap_QLMonAn_New.pdb
+D:\Projects\Winform\OnTap_QLMonAn_New\obj\Debug\OnTap_QLMonAn_New.frmQuanLyMonAn.resources
